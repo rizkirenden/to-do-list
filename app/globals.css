@@ -1,11 +1,6 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-/* Tailwind Custom Styles for Futuristic Loading and Smooth Fade-In */
-
-/* Tailwind Custom Styles for Futuristic Loading and Smooth Fade-In */
-
-/* Animasi reverse spin untuk spinner kedua */
 @keyframes reverse-spin {
   0% {
     transform: rotate(0deg);
@@ -19,7 +14,6 @@
   animation: reverse-spin 2s linear infinite;
 }
 
-/* Efek fade-in untuk elemen yang muncul */
 @keyframes fadeIn {
   0% {
     opacity: 0;
