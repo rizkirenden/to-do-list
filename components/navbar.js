@@ -33,7 +33,7 @@ const Navbar = () => {
                 href="/todolist"
                 className="text-gray-700 hover:text-indigo-600 transition"
               >
-                Home
+                ToDoList
               </a>
             </div>
             <div className="flex items-center space-x-4 ml-6">
